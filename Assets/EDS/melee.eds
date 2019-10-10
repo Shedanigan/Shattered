@@ -1,0 +1,382 @@
+Sprite Sheet Path: Assets\Images\Mob\Greece_Enemy_02_Spritesheet.png
+Width: 512	Height: 512	# Frames: 35
+Idle Start: 0	Idle End: 6	Idle Rate: 6
+Jump Start: 0	Jump End: 0	Jump Rate: 0
+Fall Start: 0	Fall End: 0	Fall Rate: 0
+Land Start: 0	Land End: 0	Land Rate: 0
+Walk Start: 7	Walk End: 10	Walk Rate: 6
+Atk1 Start: 14	Atk1 End: 18	Atk1 Rate: 8
+Atk2 Start: 0	Atk2 End: 0	Atk2 Rate: 0
+Recoil Start: 21	Recoil End: 22	Recoil Rate: 4
+Death Start: 28	Death End: 31	Death Rate: 10
+Cast Start: 0	Cast End: 0	Cast Rate: 0
+Hitboxes:
+Frame: 0	# Hitboxes: 15
+X: 162	Y: 188	W: 47	H: 54
+X: 477	Y: 194	W: 34	H: 19
+X: 447	Y: 205	W: 30	H: 8
+X: 447	Y: 213	W: 47	H: 26
+X: 416	Y: 219	W: 31	H: 20
+X: 58	Y: 221	W: 104	H: 21
+X: 416	Y: 239	W: 54	H: 22
+X: 4	Y: 242	W: 412	H: 19
+X: 4	Y: 261	W: 446	H: 56
+X: 4	Y: 317	W: 447	H: 9
+X: 66	Y: 326	W: 142	H: 14
+X: 408	Y: 326	W: 43	H: 17
+X: 66	Y: 340	W: 157	H: 11
+X: 90	Y: 351	W: 26	H: 31
+X: 191	Y: 351	W: 32	H: 13
+Frame: 1	# Hitboxes: 29
+X: 240	Y: 149	W: 12	H: 14
+X: 232	Y: 152	W: 8	H: 11
+X: 221	Y: 159	W: 11	H: 4
+X: 221	Y: 163	W: 24	H: 10
+X: 221	Y: 173	W: 16	H: 17
+X: 208	Y: 174	W: 13	H: 16
+X: 433	Y: 181	W: 20	H: 9
+X: 424	Y: 186	W: 9	H: 4
+X: 208	Y: 190	W: 20	H: 13
+X: 424	Y: 190	W: 16	H: 10
+X: 414	Y: 193	W: 10	H: 7
+X: 187	Y: 194	W: 21	H: 9
+X: 414	Y: 200	W: 18	H: 6
+X: 402	Y: 202	W: 12	H: 4
+X: 187	Y: 203	W: 40	H: 22
+X: 402	Y: 206	W: 28	H: 11
+X: 137	Y: 207	W: 31	H: 18
+X: 383	Y: 210	W: 19	H: 7
+X: 383	Y: 217	W: 40	H: 13
+X: 369	Y: 223	W: 14	H: 7
+X: 124	Y: 225	W: 128	H: 27
+X: 369	Y: 230	W: 50	H: 22
+X: 356	Y: 238	W: 13	H: 14
+X: 71	Y: 252	W: 350	H: 82
+X: 171	Y: 334	W: 48	H: 30
+X: 242	Y: 334	W: 54	H: 6
+X: 352	Y: 334	W: 49	H: 16
+X: 242	Y: 340	W: 64	H: 5
+X: 263	Y: 345	W: 43	H: 27
+Frame: 2	# Hitboxes: 13
+X: 265	Y: 129	W: 37	H: 44
+X: 165	Y: 173	W: 165	H: 25
+X: 509	Y: 173	W: 3	H: 34
+X: 165	Y: 198	W: 225	H: 53
+X: 165	Y: 251	W: 265	H: 61
+X: 165	Y: 312	W: 282	H: 17
+X: 165	Y: 329	W: 183	H: 4
+X: 380	Y: 329	W: 67	H: 5
+X: 216	Y: 333	W: 61	H: 15
+X: 299	Y: 333	W: 13	H: 24
+X: 318	Y: 333	W: 30	H: 29
+X: 214	Y: 344	W: 2	H: 4
+X: 214	Y: 348	W: 33	H: 23
+Frame: 3	# Hitboxes: 18
+X: 294	Y: 165	W: 34	H: 17
+X: 0	Y: 173	W: 42	H: 18
+X: 294	Y: 182	W: 47	H: 2
+X: 307	Y: 184	W: 34	H: 13
+X: 0	Y: 191	W: 76	H: 16
+X: 302	Y: 197	W: 57	H: 16
+X: 385	Y: 199	W: 58	H: 14
+X: 28	Y: 207	W: 48	H: 6
+X: 28	Y: 213	W: 472	H: 24
+X: 56	Y: 237	W: 444	H: 76
+X: 299	Y: 313	W: 56	H: 12
+X: 394	Y: 313	W: 29	H: 9
+X: 286	Y: 319	W: 13	H: 6
+X: 394	Y: 322	W: 23	H: 14
+X: 286	Y: 325	W: 39	H: 6
+X: 280	Y: 329	W: 6	H: 2
+X: 280	Y: 331	W: 28	H: 7
+X: 394	Y: 336	W: 14	H: 22
+Frame: 4	# Hitboxes: 16
+X: 262	Y: 150	W: 45	H: 38
+X: 71	Y: 181	W: 21	H: 4
+X: 71	Y: 185	W: 37	H: 14
+X: 262	Y: 188	W: 73	H: 34
+X: 71	Y: 199	W: 62	H: 1
+X: 85	Y: 200	W: 48	H: 22
+X: 358	Y: 207	W: 22	H: 15
+X: 85	Y: 222	W: 313	H: 14
+X: 103	Y: 236	W: 295	H: 19
+X: 116	Y: 255	W: 282	H: 4
+X: 116	Y: 259	W: 330	H: 75
+X: 116	Y: 334	W: 56	H: 14
+X: 217	Y: 334	W: 57	H: 9
+X: 295	Y: 334	W: 53	H: 31
+X: 217	Y: 343	W: 41	H: 12
+X: 217	Y: 355	W: 25	H: 19
+Frame: 5	# Hitboxes: 11
+X: 315	Y: 132	W: 89	H: 31
+X: 315	Y: 163	W: 132	H: 88
+X: 281	Y: 185	W: 34	H: 66
+X: 237	Y: 205	W: 42	H: 26
+X: 170	Y: 231	W: 111	H: 20
+X: 170	Y: 251	W: 267	H: 71
+X: 170	Y: 322	W: 67	H: 17
+X: 272	Y: 322	W: 47	H: 42
+X: 323	Y: 322	W: 76	H: 26
+X: 323	Y: 348	W: 86	H: 5
+X: 374	Y: 353	W: 35	H: 22
+Frame: 6	# Hitboxes: 15
+X: 158	Y: 191	W: 51	H: 30
+X: 480	Y: 195	W: 26	H: 18
+X: 470	Y: 207	W: 10	H: 6
+X: 453	Y: 209	W: 17	H: 4
+X: 453	Y: 213	W: 39	H: 15
+X: 39	Y: 221	W: 414	H: 7
+X: 39	Y: 228	W: 440	H: 19
+X: 39	Y: 247	W: 425	H: 36
+X: 2	Y: 268	W: 37	H: 15
+X: 2	Y: 283	W: 439	H: 44
+X: 2	Y: 327	W: 449	H: 2
+X: 77	Y: 329	W: 38	H: 54
+X: 124	Y: 329	W: 109	H: 17
+X: 419	Y: 329	W: 32	H: 13
+X: 145	Y: 346	W: 88	H: 17
+Frame: 7	# Hitboxes: 17
+X: 157	Y: 186	W: 50	H: 32
+X: 484	Y: 191	W: 22	H: 31
+X: 464	Y: 203	W: 20	H: 19
+X: 436	Y: 214	W: 28	H: 8
+X: 44	Y: 218	W: 268	H: 38
+X: 436	Y: 222	W: 51	H: 16
+X: 384	Y: 226	W: 52	H: 12
+X: 384	Y: 238	W: 88	H: 14
+X: 384	Y: 252	W: 71	H: 14
+X: 3	Y: 256	W: 381	H: 10
+X: 3	Y: 266	W: 442	H: 46
+X: 3	Y: 312	W: 443	H: 11
+X: 73	Y: 323	W: 134	H: 14
+X: 418	Y: 323	W: 28	H: 22
+X: 73	Y: 337	W: 156	H: 6
+X: 73	Y: 343	W: 40	H: 37
+X: 173	Y: 343	W: 56	H: 19
+Frame: 8	# Hitboxes: 12
+X: 175	Y: 207	W: 19	H: 10
+X: 147	Y: 217	W: 151	H: 54
+X: 486	Y: 251	W: 26	H: 19
+X: 452	Y: 263	W: 34	H: 7
+X: 452	Y: 270	W: 51	H: 24
+X: 85	Y: 271	W: 255	H: 8
+X: 418	Y: 273	W: 34	H: 21
+X: 59	Y: 279	W: 359	H: 15
+X: 59	Y: 294	W: 422	H: 18
+X: 59	Y: 312	W: 393	H: 71
+X: 12	Y: 324	W: 47	H: 59
+X: 121	Y: 383	W: 40	H: 50
+Frame: 9	# Hitboxes: 13
+X: 155	Y: 187	W: 67	H: 34
+X: 467	Y: 191	W: 37	H: 34
+X: 437	Y: 208	W: 30	H: 17
+X: 38	Y: 221	W: 255	H: 31
+X: 394	Y: 225	W: 86	H: 16
+X: 509	Y: 236	W: 3	H: 66
+X: 394	Y: 241	W: 70	H: 22
+X: 0	Y: 251	W: 8	H: 19
+X: 15	Y: 252	W: 379	H: 11
+X: 15	Y: 263	W: 435	H: 15
+X: 3	Y: 278	W: 460	H: 49
+X: 70	Y: 327	W: 163	H: 55
+X: 413	Y: 327	W: 41	H: 15
+Frame: 10	# Hitboxes: 12
+X: 457	Y: 134	W: 41	H: 58
+X: 442	Y: 158	W: 15	H: 34
+X: 409	Y: 173	W: 33	H: 19
+X: 194	Y: 180	W: 36	H: 28
+X: 409	Y: 192	W: 62	H: 2
+X: 409	Y: 194	W: 51	H: 31
+X: 35	Y: 195	W: 159	H: 13
+X: 374	Y: 195	W: 35	H: 30
+X: 35	Y: 208	W: 186	H: 28
+X: 374	Y: 225	W: 71	H: 11
+X: 0	Y: 236	W: 469	H: 66
+X: 59	Y: 302	W: 220	H: 64
+Frame: 11	# Hitboxes: 0
+Frame: 12	# Hitboxes: 0
+Frame: 13	# Hitboxes: 0
+Frame: 14	# Hitboxes: 12
+X: 155	Y: 174	W: 66	H: 36
+X: 468	Y: 184	W: 37	H: 26
+X: 448	Y: 196	W: 20	H: 14
+X: 411	Y: 208	W: 37	H: 2
+X: 42	Y: 210	W: 273	H: 42
+X: 411	Y: 210	W: 72	H: 19
+X: 411	Y: 229	W: 57	H: 22
+X: 366	Y: 231	W: 45	H: 20
+X: 366	Y: 251	W: 95	H: 1
+X: 5	Y: 252	W: 458	H: 74
+X: 83	Y: 326	W: 44	H: 44
+X: 143	Y: 326	W: 86	H: 25
+Frame: 15	# Hitboxes: 10
+X: 75	Y: 161	W: 159	H: 51
+X: 423	Y: 185	W: 25	H: 52
+X: 7	Y: 212	W: 416	H: 25
+X: 7	Y: 237	W: 437	H: 37
+X: 7	Y: 274	W: 473	H: 21
+X: 56	Y: 295	W: 190	H: 20
+X: 411	Y: 295	W: 69	H: 8
+X: 411	Y: 303	W: 100	H: 23
+X: 157	Y: 315	W: 54	H: 45
+X: 449	Y: 326	W: 62	H: 23
+Frame: 16	# Hitboxes: 13
+X: 149	Y: 176	W: 60	H: 33
+X: 483	Y: 180	W: 25	H: 24
+X: 432	Y: 196	W: 51	H: 8
+X: 432	Y: 204	W: 60	H: 24
+X: 38	Y: 209	W: 314	H: 49
+X: 367	Y: 221	W: 65	H: 7
+X: 367	Y: 228	W: 108	H: 36
+X: 7	Y: 258	W: 360	H: 6
+X: 7	Y: 264	W: 433	H: 48
+X: 7	Y: 312	W: 442	H: 7
+X: 69	Y: 319	W: 52	H: 54
+X: 143	Y: 319	W: 111	H: 31
+X: 416	Y: 319	W: 33	H: 12
+Frame: 17	# Hitboxes: 13
+X: 79	Y: 181	W: 149	H: 45
+X: 395	Y: 220	W: 51	H: 26
+X: 15	Y: 226	W: 236	H: 20
+X: 0	Y: 246	W: 448	H: 43
+X: 0	Y: 289	W: 460	H: 17
+X: 39	Y: 306	W: 286	H: 23
+X: 383	Y: 306	W: 77	H: 12
+X: 383	Y: 318	W: 106	H: 11
+X: 62	Y: 329	W: 65	H: 14
+X: 148	Y: 329	W: 68	H: 44
+X: 440	Y: 329	W: 49	H: 14
+X: 440	Y: 343	W: 67	H: 17
+X: 471	Y: 360	W: 36	H: 8
+Frame: 18	# Hitboxes: 17
+X: 482	Y: 179	W: 24	H: 12
+X: 156	Y: 182	W: 51	H: 30
+X: 458	Y: 191	W: 49	H: 27
+X: 424	Y: 207	W: 34	H: 11
+X: 44	Y: 212	W: 165	H: 11
+X: 424	Y: 218	W: 64	H: 15
+X: 44	Y: 223	W: 239	H: 19
+X: 384	Y: 226	W: 40	H: 7
+X: 384	Y: 233	W: 83	H: 34
+X: 19	Y: 242	W: 365	H: 25
+X: 2	Y: 263	W: 17	H: 4
+X: 2	Y: 267	W: 438	H: 23
+X: 2	Y: 290	W: 445	H: 15
+X: 31	Y: 305	W: 225	H: 12
+X: 402	Y: 305	W: 45	H: 31
+X: 75	Y: 317	W: 45	H: 53
+X: 139	Y: 317	W: 95	H: 34
+Frame: 19	# Hitboxes: 0
+Frame: 20	# Hitboxes: 0
+Frame: 21	# Hitboxes: 15
+X: 160	Y: 180	W: 56	H: 31
+X: 474	Y: 180	W: 32	H: 23
+X: 453	Y: 197	W: 21	H: 6
+X: 453	Y: 203	W: 40	H: 13
+X: 39	Y: 211	W: 274	H: 41
+X: 413	Y: 213	W: 40	H: 3
+X: 413	Y: 216	W: 66	H: 14
+X: 399	Y: 229	W: 14	H: 1
+X: 399	Y: 230	W: 71	H: 18
+X: 378	Y: 237	W: 21	H: 11
+X: 378	Y: 248	W: 75	H: 73
+X: 5	Y: 252	W: 373	H: 69
+X: 76	Y: 321	W: 48	H: 51
+X: 146	Y: 321	W: 85	H: 33
+X: 414	Y: 321	W: 37	H: 12
+Frame: 22	# Hitboxes: 28
+X: 229	Y: 154	W: 22	H: 18
+X: 212	Y: 162	W: 17	H: 10
+X: 212	Y: 172	W: 26	H: 17
+X: 202	Y: 181	W: 10	H: 8
+X: 423	Y: 181	W: 25	H: 17
+X: 391	Y: 188	W: 32	H: 10
+X: 202	Y: 189	W: 30	H: 7
+X: 181	Y: 196	W: 54	H: 41
+X: 391	Y: 198	W: 41	H: 29
+X: 132	Y: 207	W: 49	H: 30
+X: 380	Y: 209	W: 11	H: 18
+X: 368	Y: 226	W: 12	H: 1
+X: 368	Y: 227	W: 51	H: 37
+X: 87	Y: 237	W: 281	H: 27
+X: 87	Y: 264	W: 313	H: 8
+X: 87	Y: 272	W: 310	H: 9
+X: 87	Y: 281	W: 301	H: 14
+X: 87	Y: 295	W: 295	H: 28
+X: 71	Y: 318	W: 16	H: 5
+X: 71	Y: 323	W: 320	H: 7
+X: 71	Y: 330	W: 48	H: 5
+X: 173	Y: 330	W: 47	H: 25
+X: 233	Y: 330	W: 84	H: 14
+X: 347	Y: 330	W: 44	H: 5
+X: 347	Y: 335	W: 56	H: 9
+X: 269	Y: 344	W: 48	H: 29
+X: 371	Y: 344	W: 32	H: 7
+X: 173	Y: 355	W: 28	H: 5
+Frame: 23	# Hitboxes: 0
+Frame: 24	# Hitboxes: 0
+Frame: 25	# Hitboxes: 0
+Frame: 26	# Hitboxes: 0
+Frame: 27	# Hitboxes: 0
+Frame: 28	# Hitboxes: 0
+Frame: 29	# Hitboxes: 0
+Frame: 30	# Hitboxes: 0
+Frame: 31	# Hitboxes: 0
+Frame: 32	# Hitboxes: 0
+Frame: 33	# Hitboxes: 0
+Frame: 34	# Hitboxes: 0
+Atkboxes:
+Frame: 0	# Atkboxes: 0
+Frame: 1	# Atkboxes: 0
+Frame: 2	# Atkboxes: 0
+Frame: 3	# Atkboxes: 0
+Frame: 4	# Atkboxes: 0
+Frame: 5	# Atkboxes: 0
+Frame: 6	# Atkboxes: 0
+Frame: 7	# Atkboxes: 0
+Frame: 8	# Atkboxes: 0
+Frame: 9	# Atkboxes: 0
+Frame: 10	# Atkboxes: 0
+Frame: 11	# Atkboxes: 0
+Frame: 12	# Atkboxes: 0
+Frame: 13	# Atkboxes: 0
+Frame: 14	# Atkboxes: 0
+Frame: 15	# Atkboxes: 5
+X: 73	Y: 157	W: 155	H: 57
+X: 4	Y: 214	W: 280	H: 88
+X: 511	Y: 234	W: 1	H: 88
+X: 64	Y: 302	W: 155	H: 19
+X: 157	Y: 321	W: 54	H: 34
+Frame: 16	# Atkboxes: 5
+X: 150	Y: 177	W: 74	H: 41
+X: 48	Y: 207	W: 102	H: 11
+X: 48	Y: 218	W: 169	H: 16
+X: 0	Y: 234	W: 279	H: 88
+X: 61	Y: 322	W: 167	H: 49
+Frame: 17	# Atkboxes: 5
+X: 72	Y: 180	W: 162	H: 54
+X: 1	Y: 234	W: 280	H: 88
+X: 508	Y: 234	W: 4	H: 88
+X: 52	Y: 322	W: 176	H: 27
+X: 165	Y: 349	W: 54	H: 25
+Frame: 18	# Atkboxes: 4
+X: 162	Y: 174	W: 52	H: 32
+X: 47	Y: 206	W: 176	H: 28
+X: 0	Y: 234	W: 276	H: 88
+X: 70	Y: 322	W: 157	H: 48
+Frame: 19	# Atkboxes: 0
+Frame: 20	# Atkboxes: 0
+Frame: 21	# Atkboxes: 0
+Frame: 22	# Atkboxes: 0
+Frame: 23	# Atkboxes: 0
+Frame: 24	# Atkboxes: 0
+Frame: 25	# Atkboxes: 0
+Frame: 26	# Atkboxes: 0
+Frame: 27	# Atkboxes: 0
+Frame: 28	# Atkboxes: 0
+Frame: 29	# Atkboxes: 0
+Frame: 30	# Atkboxes: 0
+Frame: 31	# Atkboxes: 0
+Frame: 32	# Atkboxes: 0
+Frame: 33	# Atkboxes: 0
+Frame: 34	# Atkboxes: 0
